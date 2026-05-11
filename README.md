@@ -14,6 +14,4 @@ Por eso tengo como objetivo actual introducirme al mercado laboral (IT) lo antes
 En el ambito tecnologico, me interesa desarrollarme en el area de la inteligencia artificial ($$$) y machine learning.
 Fuera de la facultad, me gusta la literatura, el parkour, escalada, los motores de combustion interna y estar tirado al sol.
 
-p align="center">
-  <img src="mifoto-1.JPEG" alt="Mi Foto" width="200"/>
-</p>
+![Mi Foto](mifoto.JPEG)
